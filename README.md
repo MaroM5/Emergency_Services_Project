@@ -20,7 +20,7 @@ This is a call registration app, computer-aided dispatch (CAD) software develope
 ## Installation
 1. **Download the .zip file from github:**
    - Click on the `CallRegistrationApp.zip`.
-   - Click on the 3 dots at the top right of the github window and select "Download".
+   - Click on the 3 dots at the right of the github window and select "Download".
 
 2. **Extract the ZIP file:**
    - Right click on the `CallRegistrationApp.zip` file and select "Extract All".
