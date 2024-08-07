@@ -43,6 +43,8 @@ This is a call registration app, computer-aided dispatch (CAD) software develope
 ## Contributors
 - **Marianthi Michalaki**
 - **Sofoklis Niktaris**
+
+
 Sofoklis and I worked together on this project as part of our university Java class (Hellenic Mediterranean University Department of Electrical and Computer Engineering).
 
 ## Contact
